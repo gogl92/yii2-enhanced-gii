@@ -3,6 +3,7 @@ All things needed to create a fully functional application just to modify the bu
 
 [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
 [![Buy me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/inquid)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgogl92%2Fyii2-enhanced-gii.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgogl92%2Fyii2-enhanced-gii?ref=badge_shield)
 
 ## Installation
 
@@ -48,3 +49,7 @@ See treemanager settings on http://demos.krajee.com/tree-manager#module (If you 
 
 ## Usage :
 Go to your gii tools, and notice the new IO Generator for models & CRUD
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgogl92%2Fyii2-enhanced-gii.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgogl92%2Fyii2-enhanced-gii?ref=badge_large)
